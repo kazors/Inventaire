@@ -1,0 +1,9 @@
+Emp    Code MP2    Code SAP    Unité    Qte
+E56    03677N    7000034409    PCE    
+
+E56    03678W    7000034410    PCE    
+
+E56    04578T    7000034504    PCE    
+
+E56    21638C    7000055598    PCE    
+

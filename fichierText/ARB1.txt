@@ -1,0 +1,3 @@
+Emp    Code MP2    Code SAP    Unité    Qte
+ARB1    18463Q    7000039856    PCE    
+

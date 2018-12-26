@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_102"/>
+	<classpathentry kind="lib" path="C:/Users/gerardj/Desktop/java/Magnetto/Magnetto wheels/Lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gerardj/Desktop/java/Magnetto/Magnetto wheels/Lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gerardj/Desktop/java/Magnetto/Magnetto wheels/Lib/org.eclipse.swt-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gerardj/Desktop/java/Magnetto/Magnetto wheels/Lib/org-openide-awt-RELEASE802.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gerardj/Desktop/java/Magnetto/Magnetto wheels/Lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gerardj/Desktop/java/Magnetto/Magnetto wheels/Lib/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gerardj/Desktop/java/Magnetto/Magnetto wheels/Lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gerardj/Desktop/java/Magnetto/Magnetto wheels/Lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gerardj/Desktop/java/Magnetto/Magnetto wheels/Lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gerardj/Desktop/java/Magnetto/Magnetto wheels/Lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gerardj/Desktop/java/Magnetto/Magnetto wheels/Lib/swt-win64-3.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gerardj/Desktop/java/Magnetto/Magnetto wheels/Lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NetBeans 8.2/java/modules/ext/AbsoluteLayout.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,7 @@
+Emp    Code MP2    Code SAP    Unité    Qte
+YZ    00607T    7000033372    PCE    
+
+YZ    03888J    7000034433    PCE    
+
+YZ    04419P    7000034490    PCE    
+

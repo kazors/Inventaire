@@ -1,0 +1,27 @@
+Emp    Code MP2    Code SAP    Unité    Qte
+ARB    01415G    7000033819    PCE    
+
+ARB    01419H    7000033821    PCE    
+
+ARB    09047P    7000035083    PCE    
+
+ARB    17396H    7000038859    PCE    
+
+ARB    18157X    7000039587    PCE    
+
+ARB    18459P    7000039852    PCE    
+
+ARB    18943C    7000040320    PCE    
+
+ARB    18944D    7000040321    PCE    
+
+ARB    18946F    7000040323    PCE    
+
+ARB    21707T    7000056144    PCE    
+
+ARB    21704Q    7000056145    PCE    
+
+ARB    21705R    7000056146    PCE    
+
+ARB    18942B    8000017699    PCE    
+

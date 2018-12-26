@@ -1,0 +1,9 @@
+Emp    Code MP2    Code SAP    Unité    Qte
+HANGAR GAZ    17240L    7000038714    PCE    
+
+HANGAR GAZ    17242N    7000038716    PCE    
+
+HANGAR GAZ    20149X    7000041411    PCE    
+
+HANGAR GAZ    20150Y    8000017740    PCE    
+

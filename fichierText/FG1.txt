@@ -1,0 +1,11 @@
+Emp    Code MP2    Code SAP    Unité    Qte
+FG1    01930D    7000033979    PCE    
+
+FG1    02993H    7000034331    PCE    
+
+FG1    02994N    7000034332    PCE    
+
+FG1    02995W    7000034333    PCE    
+
+FG1    20558P    7000042586    PCE    
+

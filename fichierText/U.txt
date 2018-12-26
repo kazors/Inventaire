@@ -1,0 +1,13 @@
+Emp    Code MP2    Code SAP    Unité    Qte
+U    11123F    7000035300    PCE    
+
+U    11128C    7000035303    PCE    
+
+U    11673K    7000035487    PCE    
+
+U    11674P    7000035488    PCE    
+
+U    11675T    7000035489    PCE    
+
+U    14841N    7000036993    PCE    
+

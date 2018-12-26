@@ -1,0 +1,7 @@
+Emp    Code MP2    Code SAP    Unité    Qte
+B30    06254B    7000034685    PCE    
+
+B32    16252R    7000037909    PCE    
+
+B32    21480A    7000054413    PCE    
+

@@ -1,0 +1,9 @@
+Emp    Code MP2    Code SAP    Unité    Qte
+T    01443J    7000033827    PCE    
+
+T    10022A    7000035222    PCE    
+
+T    11121X    7000035299    PCE    
+
+T    11672F    7000035486    PCE    
+

@@ -1,0 +1,9 @@
+Emp    Code MP2    Code SAP    Unité    Qte
+TTS BIDON3    19853H    7000041165    KG    
+
+TTS BIDON3    19855J    7000041166    KG    
+
+TTS BIDON3    20091R    7000041365    KG    
+
+TTS BIDON3    20092S    7000041366    KG    
+

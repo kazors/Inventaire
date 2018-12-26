@@ -1,0 +1,11 @@
+Emp    Code MP2    Code SAP    Unité    Qte
+ARH6    21397V    7000054018    PCE    
+
+ARH6    20989E    8000018468    PCE    
+
+ARH6    20990F    8000018469    PCE    
+
+ARH6    21025O    8000019381    PCE    
+
+ARH6    21026P    8000019397    PCE    
+

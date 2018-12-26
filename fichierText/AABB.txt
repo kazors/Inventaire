@@ -1,0 +1,15 @@
+Emp    Code MP2    Code SAP    Unité    Qte
+AABB    17591M    7000039039    PCE    
+
+AABB    20819Q    7000043206    PCE    
+
+AABB    21179L    7000049616    PCE    
+
+AABB    21407F    7000054171    PCE    
+
+AABB    21649N    7000055648    PCE    
+
+AABB    21655T    7000055662    PCE    
+
+AABB    21699L    7000056083    PCE    
+
